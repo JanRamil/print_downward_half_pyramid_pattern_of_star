@@ -9,3 +9,6 @@ for i in range(5):
     for j in range(5 - i):
         # Create a code that will create a star
         (print("*", end=" "))
+        
+    # Create a code that print new line after inner loop
+    print()
