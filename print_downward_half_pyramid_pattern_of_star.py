@@ -7,3 +7,5 @@
 for i in range(5):
     # inner loop for number of columns
     for j in range(5 - i):
+        # Create a code that will create a star
+        (print("*", end=" "))
